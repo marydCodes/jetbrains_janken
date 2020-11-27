@@ -3,3 +3,6 @@ If you’ve ever wanted to create games, this project will get you started! In t
 
 ### Learning outcomes
 A playable Rock-Paper-Scissors game, with a Player vs Computer mode. Practice using arrays, the Random library, formatted strings, and algorithms.
+
+### COMPLETED
+Improvements: Implement additional stage lets the player choose what options will be used in the game and how many of them will be there.
